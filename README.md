@@ -59,6 +59,8 @@ cd FinanceTracker
 
 Made with ❤️ by Mohit1796119
 Feel free to open issues or suggest features!
+
+
 ---
 title: Finance Budget Allocator
 sdk: docker
@@ -70,5 +72,3 @@ pinned: false
 Flask app for estimating a monthly investable amount and suggesting a simple allocation.
 
 
-Deployed on Hugging Faces Spaces
-https://huggingface.co/spaces/Mohit1796119/FinanceTracker
